@@ -1,0 +1,3 @@
+C:/Users/Chathura/CLionProjects/Base64/cmake-build-debug/CMakeFiles/Base64.dir
+C:/Users/Chathura/CLionProjects/Base64/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Chathura/CLionProjects/Base64/cmake-build-debug/CMakeFiles/rebuild_cache.dir
